@@ -1,0 +1,1 @@
+delete from dato_meteorologico cascade;
